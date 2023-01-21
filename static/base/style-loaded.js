@@ -237,7 +237,7 @@ _.ev(sbox.childNodes[0].firstChild.lastElementChild, "click",_b);
  const ytbrowse = function(){
  var wlc = _.Crw("div",{class: "welcome"}, _.Crw("div",false,_.Crw("h1")),ct)
  _.Crw("p", false, false, wlc.childNodes[0])
- wlc.childNodes[0].firstChild.textContent = "YouTube - Developer kire dev"
+ wlc.childNodes[0].firstChild.textContent = "YouTube - Netfree"
  wlc.childNodes[0].lastElementChild.textContent = "This Youtube is still in development, it will be constantly updated, to offer a better experience."
  } ,ytwatch = function(){
 
